@@ -20,8 +20,8 @@ To prove commercial viability, the engine was tested against a real-world logist
 1. **Standard Cordeau Benchmark (pr01-pr20):** Achieved sub-second execution times with 100% feasibility.
 2. **Large-Scale Vidal Benchmark (up to 960 nodes):** Established new mobile execution baselines for massive datasets.
 
-👉 **See [RESULT_SUMMARY.md](./benchmark_mdvrptw/RESULT_SUMMARY.md) for full benchmark data and cost gaps.**
-👉 **See [BENCHMARK_METHODOLOGY.md](./Docs/BENCHMARK_METHODOLOGY.md) for testing protocols.**
+👉 **See [RESULT_SUMMARY.md](./Benchmark_MDVRPTW/RESULT_SUMMARY.md) for full benchmark data and cost gaps.**
+👉 **See [BENCHMARK_METHODOLOGY.md](./Docs/Benchmark_Methodology.md) for testing protocols.**
 👉 **See [TECHNICAL_REPORT.md](./Docs/TECHNICAL_REPORT.md) for insights into the core logic.**
 
 ---
