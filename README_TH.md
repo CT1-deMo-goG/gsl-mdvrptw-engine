@@ -27,6 +27,27 @@ Repository นี้คือตัวแทนของสถาปัตยก
 
 ---
 
-💼 **ติดต่องาน / Professional Contact**
-นักวิจัยอิสระ: Chonmapoohm Thamsuwan (CTSuwan)
-📧 อีเมล: ctsuwan@proton.me
+## แพลตฟอร์ม GSL-Solver
+
+**พอร์ทัลอัปติไมซ์เส้นทางระดับองค์กร (Enterprise Route Optimization Portal)**
+เข้าใช้งานเอนจิน Deterministic ระดับโปรดักชันที่พร้อมใช้งานจริงได้ที่นี่:  
+[**https://gsl-solver.com**](https://gsl-solver.com)
+
+---
+
+## ข้อมูลการติดต่อ
+
+**นักวิจัยอิสระ (Independent Researcher):** ชนมภูมิ ธรรมสุวรรณ (CTSuwan)  
+**อีเมล:** [ctsuwan@proton.me](mailto:ctsuwan@proton.me)  
+
+---
+
+## บริการและความร่วมมือทางธุรกิจ
+
+เปิดรับการร่วมงานและให้คำปรึกษาระดับมืออาชีพ ในขอบเขตดังต่อไปนี้:
+
+- **Logistics-as-a-Service (LaaS):** บริการระบบประมวลผลเส้นทางแบบเรียลไทม์สำหรับฟลีทรถขนส่งระดับองค์กร
+- **High-Precision Modeling:** การออกแบบและพัฒนาอัลกอริทึมเฉพาะทาง สำหรับแก้ปัญหาซัพพลายเชนที่มีเงื่อนไข (Constraints) ซับซ้อนขั้นสูง
+- **Technical Consultancy:** บริการให้คำปรึกษาทางเทคนิค, ทดสอบขีดจำกัดระบบเครือข่ายขนาดใหญ่ (Stress-testing) และการตรวจสอบประเมินประสิทธิภาพการจัดเส้นทาง (Optimization audits)
+
+
