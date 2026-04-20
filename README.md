@@ -1,4 +1,5 @@
 [อ่านภาษาไทยที่นี่](README_TH.md)
+
 # GSL Engine: MDVRPTW Module ⏱️
 A high-performance deterministic optimization engine for the Multi-Depot Vehicle Routing Problem with Time Windows (MDVRPTW).
 
@@ -9,7 +10,7 @@ This repository represents the most complex routing architecture in the GSL fram
 ⚠️ **Disclaimer:** Source code is proprietary and not publicly available. This project is open for research collaboration and industrial applications.
 
 ## 🏆 Real-World Logistics Optimization (Bosnia Dataset)
-To prove commercial viability, the engine was tested against a real-world logistics dataset from a major distribution company in Bosnia & Herzegovina. 
+To prove commercial viability, the engine was evaluated against an open-source, real-world logistics dataset from a major distribution company in Bosnia & Herzegovina (Dataset published by Žunić et al., 2020 under a CC0 license). 
 
 * **Legacy System Baseline (Company's Routing):** 537.43 KM
 * **GSL Engine V29 Optimized Routing:** 368.35 KM
@@ -49,4 +50,3 @@ Open to professional engagement in the following areas:
 - **High-Precision Modeling:** Custom algorithmic solutions for complex supply chain constraints.
 - **Technical Consultancy:** Large-scale network stress-testing and optimization audits.
 - 
-
